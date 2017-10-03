@@ -3,11 +3,6 @@
 This is a curated list of **academic** (!) books and papers on
 object-oriented programming.
 
-We use [ACM citation style](http://www.acm.org/publications/authors/reference-formatting) with a bolder font for titles.
-
-To find new papers we recommend to use
-[Google Scholar](https://scholar.google.com.ua/schhp).
-
 Barbara Liskov and Jeannette Wing.
 **A behavioral notion of subtyping**.
 _ACM Transactions on Programming Languages and Systems_, 16 (6) (November 1994), 1811–1841.
@@ -20,6 +15,11 @@ We are not interested in professional or scholar
 books, web articles, videos, blog posts, etc. The list must include
 only academic papers, like ACM/IEEE/etc. conference proceedings or
 publications in scientific journals.
+
+We use [ACM citation style](http://www.acm.org/publications/authors/reference-formatting) with a bolder font for titles.
+
+To find new papers we recommend to use
+[Google Scholar](https://scholar.google.com.ua/schhp).
 
 Please, read [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 before submitting changes to this list.
