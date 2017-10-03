@@ -3,7 +3,11 @@
 This is a curated list of academic books and papers on
 object-oriented programming.
 
-...
+Liskov, B. H., Wing, J. M.,
+__A behavioral notion of subtyping__,
+ACM Transactions on Programming Languages and Systems, 16 (6),
+November 1994,
+pp. 1811–1841.
 
 ## License
 
