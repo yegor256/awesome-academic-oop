@@ -3,10 +3,10 @@
 This is a curated list of academic books and papers on
 object-oriented programming.
 
-We use [ACM citation style](http://www.acm.org/publications/authors/reference-formatting).
+We use [ACM citation style](http://www.acm.org/publications/authors/reference-formatting) with a bolder font for titles.
 
 Barbara Liskov and Jeannette Wing.
-A behavioral notion of subtyping.
+**A behavioral notion of subtyping**.
 _ACM Transactions on Programming Languages and Systems_, 16 (6) (November 1994), 1811–1841.
 
 ## License
