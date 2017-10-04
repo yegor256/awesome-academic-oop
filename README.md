@@ -9,16 +9,15 @@ hypothesises from [Elegant Objects](http://www.yegor256.com/elegant-objects.html
 book series:
 
   * Objects are not data containers
-  * NULL is evil
-  * Static methods are evil
-  * Implementation inheritance is evil
-  * Type casting is evil
-  * Reflection is evil
-  * Java annotations are evil
-  * Constructors must be code free
-  * Objects must be immutable
-  * Interfaces must be small
   * Getters and setters are evil
+  * Static methods are evil
+  * Objects must be immutable
+  * Implementation inheritance is evil
+  * NULL is evil
+  * Constructors must be code free
+  * Type casting (and reflection) is evil
+  * Java annotations are evil
+  * Interfaces must be small
 
 Barbara Liskov and Jeannette Wing.
 **A behavioral notion of subtyping**.
