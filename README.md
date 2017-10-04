@@ -19,9 +19,12 @@ book series (in order of importance):
   * Java annotations are evil
   * Interfaces must be small
 
-Barbara Liskov and Jeannette Wing.
-**A behavioral notion of subtyping**.
-_ACM Transactions on Programming Languages and Systems_, 16 (6) (November 1994), 1811–1841.
+William R. Cook.
+**Object-oriented programming versus abstract data types**.
+_Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_,
+The Netherlands, June 1, 1990 Proceedings, pp. 151-178.
+
+> This tutorial collects and elaborates arguments for distinguishing between object-oriented programming and abstract data types.
 
 ...
 
