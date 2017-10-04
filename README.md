@@ -29,6 +29,13 @@ _Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_,
 
 ...
 
+## Most popular sources
+
+Conferences:
+
+  * [European Conference on Object-Oriented Programming (ECOOP)](http://www.ecoop.org/)
+  * [SPLASH](https://www.splashcon.org/)
+
 ## How to contribute
 
 We are not interested in professional or scholar
