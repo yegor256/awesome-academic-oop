@@ -5,7 +5,7 @@
 This is a curated list of **academic** (!) books and papers on
 object-oriented programming, which promote "object thinking."
 We are looking for papers that go along or disagree with the following
-hypothesis from [Elegant Objects](http://www.yegor256.com/elegant-objects.html)
+hypothesises from [Elegant Objects](http://www.yegor256.com/elegant-objects.html)
 book series:
 
   * Objects are not data containers
