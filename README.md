@@ -22,7 +22,8 @@ book series (in order of importance):
 William R. Cook.
 **Object-oriented programming versus abstract data types**.
 _Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_,
-The Netherlands, June 1, 1990 Proceedings, pp. 151-178.
+1990,
+[Springer](https://link.springer.com/chapter/10.1007/BFb0019443).
 
 > This tutorial collects and elaborates arguments for distinguishing between object-oriented programming and abstract data types.
 
