@@ -4,6 +4,21 @@
 
 This is a curated list of **academic** (!) books and papers on
 object-oriented programming, which promote "object thinking."
+We are looking for papers that go along or disagree with the following
+hypothesis from [Elegant Objects](http://www.yegor256.com/elegant-objects.html)
+book series:
+
+  * Objects are not data containers
+  * NULL is evil
+  * Static methods are evil
+  * Implementation inheritance is evil
+  * Type casting is evil
+  * Reflection is evil
+  * Java annotations are evil
+  * Constructors must be code free
+  * Objects must be immutable
+  * Interfaces must be small
+  * Getters and setters are evil
 
 Barbara Liskov and Jeannette Wing.
 **A behavioral notion of subtyping**.
