@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a curated list of **academic** (!) books and papers on
-object-oriented programming.
+object-oriented programming, which promote "object thinking."
 
 Barbara Liskov and Jeannette Wing.
 **A behavioral notion of subtyping**.
