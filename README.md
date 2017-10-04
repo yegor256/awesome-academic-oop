@@ -6,7 +6,7 @@ This is a curated list of **academic** (!) books and papers on
 object-oriented programming, which promote "object thinking."
 We are looking for papers that go along or disagree with the following
 hypothesises from [Elegant Objects](http://www.yegor256.com/elegant-objects.html)
-book series:
+book series (in order of importance):
 
   * Objects are not data containers
   * Getters and setters are evil
