@@ -21,16 +21,13 @@ book series (in order of importance):
 
 William R. Cook.
 **Object-oriented programming versus abstract data types**.
-_Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_,
-1990,
+_Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_, 1990.
 [Springer](https://link.springer.com/chapter/10.1007/BFb0019443):
 > This tutorial collects and elaborates arguments for distinguishing between object-oriented programming and abstract data types.
 
 Tim Rentsch.
 **Object Oriented Programming**.
-_ACM SIGPLAN Notices_,
-17(9),
-1982,
+_ACM SIGPLAN Notices_, 17(9), 1982.
 [ACM](https://dl.acm.org/doi/pdf/10.1145/947955.947961):
 > "Everyone will be in a favor of OOP. Every manufacturer will promote his products as supporting it. Every manager will pay lip service to it. Every programmer will practice it (differently). And no one will know just what it is."
 
