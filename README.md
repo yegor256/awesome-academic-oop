@@ -23,7 +23,7 @@ William R. Cook.
 **Object-oriented programming versus abstract data types**.
 _Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_, 1990.
 [Springer](https://link.springer.com/chapter/10.1007/BFb0019443):
-> This tutorial collects and elaborates arguments for distinguishing between object-oriented programming and abstract data types.
+> ...
 
 Tim Rentsch.
 **Object Oriented Programming**.
@@ -35,25 +35,25 @@ Amnon H. Eden, et al.
 **Principles in Formal Specification of Object-Oriented Architectures**.
 _Proceedings of the Conference of the Centre for Advanced Studies on Collaborative Research (CASCON)_, 2001.
 [ACM](https://dl.acm.org/doi/10.5555/782096.782099):
-> Unfortunately, architectural formalisms have largely ignored the OO idiosyncrasies. Few works recognized the elementary building blocks of design and architecture patterns. As a result of this oversight, any attempt to use formalisms for the specification of OO architectures is destined to neglect key regularities in their organization.
+> "Unfortunately, architectural formalisms have largely ignored the OO idiosyncrasies. Few works recognized the elementary building blocks of design and architecture patterns. As a result of this oversight, any attempt to use formalisms for the specification of OO architectures is destined to neglect key regularities in their organization."
 
 Oscar Nierstrasz.
 **A Survey of Object-Oriented Concepts**.
 1989.
 [ACM](https://dl.acm.org/doi/10.1145/63320.66468):
-> The paradigm itself is far too general.
+> "The paradigm itself is far too general."
 
 Scott Danforth, et al.
 **Type Theories and Object-Oriented Programming**.
 _ACM Computing Surveys_, 20(1), 1988.
 [ACM](https://dl.acm.org/doi/abs/10.1145/62058.62060):
-> Object-oriented programming, like functional programming or logic programming, incorporates a metaphor in which computation is viewed in terms divorced from the details of actual computation. However, in the case of OOP, this metaphor is rarely introduced with the mathematical precision available to the functional or logic programming models. Rather, OOP is generally expressed in philosophical terms, resulting in a natural proliferation of opinions concerning exactly what OOP really is.
+> "Object-oriented programming, like functional programming or logic programming, incorporates a metaphor in which computation is viewed in terms divorced from the details of actual computation. However, in the case of OOP, this metaphor is rarely introduced with the mathematical precision available to the functional or logic programming models. Rather, OOP is generally expressed in philosophical terms, resulting in a natural proliferation of opinions concerning exactly what OOP really is."
 
 David West.
 **Object Thinking**.
 2004.
 [Microsoft Press](https://www.microsoftpressstore.com/store/object-thinking-9780735691308):
-> The contemporary mainstream understanding of objects (which is not behavioral) is but a pale shadow of the original idea and anti-ethical to the original intent.
+> "The contemporary mainstream understanding of objects (which is not behavioral) is but a pale shadow of the original idea and anti-ethical to the original intent."
 
 ## Most popular sources
 
