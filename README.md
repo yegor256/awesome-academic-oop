@@ -3,22 +3,11 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a curated list of **academic** (!) books and papers on
-object-oriented programming, which promote "object thinking."
-We are looking for papers that go along or disagree with the following
-hypothesises from [Elegant Objects](http://www.yegor256.com/elegant-objects.html)
-book series (in order of importance):
+object-oriented programming, which promote "object thinking," and a few
+other related topics that I'm personally interested in. The quotes
+are mostly of critical nature.
 
-  * Objects are not data containers
-  * Getters and setters are evil
-  * Static methods are evil
-  * Objects must be immutable
-  * Implementation inheritance is evil
-  * NULL is evil
-  * Constructors must be code free
-  * Type casting (and reflection) is evil
-  * Java annotations are evil
-  * Interfaces must be small
-
+### OOP Is in Trouble
 
 Tim Rentsch.
 **Object Oriented Programming**.
@@ -64,8 +53,9 @@ _International Journal on Future Revolution in Computer Science \& Communication
 
 ### Dataflow Languages & Machines
 
-Being a co-author of EO, an object-oriented programming language with a dataflow flavor,
-I'm particularly interested in works related to dataflow languages and machines. More
+Being a co-author of [EO](https://www.eolang.org),
+an object-oriented programming language with a [dataflow](https://en.wikipedia.org/wiki/Dataflow_programming)
+flavor, I'm particularly interested in works related to dataflow languages and machines. More
 specifically, I'm interested in their relation to object-oriented languages.
 
 Dong Kai Wang et al.
@@ -74,7 +64,7 @@ _ACM International Conference on Architectural Support for Programming Languages
 [ACM](https://dl.acm.org/doi/abs/10.1145/3445814.3446703):
 > "Pure dataflow architectures were limited in practicality since they could not easily support commonly used programming languages and data structures."
 
-### Unsorted yet...
+### Unsorted Yet
 
 William R. Cook.
 **Object-oriented programming versus abstract data types**.
@@ -82,23 +72,16 @@ _Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_,
 [Springer](https://link.springer.com/chapter/10.1007/BFb0019443):
 > ...
 
-## Most popular sources
-
-Conferences:
-
-  * [European Conference on Object-Oriented Programming (ECOOP)](http://www.ecoop.org/)
-  * [SPLASH](https://www.splashcon.org/)
-
 ## How to contribute
 
-We are not interested in professional or scholar
+I'm not interested in professional or scholar
 books, web articles, videos, blog posts, etc. The list must include
 only academic papers, like ACM/IEEE/etc. conference proceedings or
 publications in scientific journals.
 
-We use [ACM citation style](http://www.acm.org/publications/authors/reference-formatting) with a bolder font for titles.
+I use [ACM citation style](http://www.acm.org/publications/authors/reference-formatting) with a bolder font for titles.
 
-To find new papers we recommend to use
+To find new papers I recommend to use
 [Google Scholar](https://scholar.google.com.ua/schhp).
 
 Please, read [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
@@ -108,5 +91,5 @@ before submitting changes to this list.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Yegor Bugayenko](http://www.yegor256.com)
+To the extent possible under law, [Yegor Bugayenko](https://www.yegor256.com)
 has waived all copyright and related or neighboring rights to this work.
