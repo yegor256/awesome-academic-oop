@@ -19,11 +19,6 @@ book series (in order of importance):
   * Java annotations are evil
   * Interfaces must be small
 
-William R. Cook.
-**Object-oriented programming versus abstract data types**.
-_Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_, 1990.
-[Springer](https://link.springer.com/chapter/10.1007/BFb0019443):
-> ...
 
 Tim Rentsch.
 **Object Oriented Programming**.
@@ -66,6 +61,26 @@ Zeba Khanam.
 _International Journal on Future Revolution in Computer Science \& Communication Engineering_, 4, 2018.
 [IJFRCSCE](https://www.ijfrcsce.org/index.php/ijfrcsce/article/view/1202):
 > "Object oriented programming promotes ease in designing reusable software but the long coded methods makes it unreadable and enhances the complexity of the methods."
+
+### Dataflow Languages & Machines
+
+Being a co-author of EO, an object-oriented programming language with a dataflow flavor,
+I'm particularly interested in works related to dataflow languages and machines. More
+specifically, I'm interested in their relation to object-oriented languages.
+
+Dong Kai Wang et al.
+**DiAG: a Dataflow-Inspired Architecture for General-Purpose Processors**.
+_ACM International Conference on Architectural Support for Programming Languages and Operating Systems_, 2021.
+[ACM](https://dl.acm.org/doi/abs/10.1145/3445814.3446703):
+> "Pure dataflow architectures were limited in practicality since they could not easily support commonly used programming languages and data structures."
+
+### Unsorted yet...
+
+William R. Cook.
+**Object-oriented programming versus abstract data types**.
+_Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_, 1990.
+[Springer](https://link.springer.com/chapter/10.1007/BFb0019443):
+> ...
 
 ## Most popular sources
 
