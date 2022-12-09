@@ -31,6 +31,12 @@ _ACM SIGPLAN Notices_, 17(9), 1982.
 [ACM](https://dl.acm.org/doi/pdf/10.1145/947955.947961):
 > "Everyone will be in a favor of OOP. Every manufacturer will promote his products as supporting it. Every manager will pay lip service to it. Every programmer will practice it (differently). And no one will know just what it is."
 
+Amnon H. Eden, et al.
+**Principles in Formal Specification of Object-Oriented Architectures**.
+_Proceedings of the Conference of the Centre for Advanced Studies on Collaborative Research (CASCON)_, 2001.
+[ACM](https://dl.acm.org/doi/10.5555/782096.782099):
+> Unfortunately, architectural formalisms have largely ignored the OO idiosyncrasies. Few works recognized the elementary building blocks of design and architecture patterns. As a result of this oversight, any attempt to use \nospell{formalisms} for the specification of OO architectures is destined to neglect key regularities in their organization.
+
 ## Most popular sources
 
 Conferences:
