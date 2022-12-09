@@ -49,6 +49,12 @@ _ACM Computing Surveys_, 20(1), 1988.
 [ACM](https://dl.acm.org/doi/abs/10.1145/62058.62060):
 > Object-oriented programming, like functional programming or logic programming, incorporates a metaphor in which computation is viewed in terms divorced from the details of actual computation. However, in the case of OOP, this metaphor is rarely introduced with the mathematical precision available to the functional or logic programming models. Rather, OOP is generally expressed in philosophical terms, resulting in a natural proliferation of opinions concerning exactly what OOP really is.
 
+David West.
+**Object Thinking**.
+2004.
+[Microsoft Press](https://www.microsoftpressstore.com/store/object-thinking-9780735691308):
+> The contemporary mainstream understanding of objects (which is not behavioral) is but a pale shadow of the original idea and anti-ethical to the original intent.
+
 ## Most popular sources
 
 Conferences:
