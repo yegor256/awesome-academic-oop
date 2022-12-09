@@ -55,6 +55,18 @@ David West.
 [Microsoft Press](https://www.microsoftpressstore.com/store/object-thinking-9780735691308):
 > "The contemporary mainstream understanding of objects (which is not behavioral) is but a pale shadow of the original idea and anti-ethical to the original intent."
 
+Oscar Nierstrasz.
+**Ten Things I Hate About Object-Oriented Programming**,
+_Journal of Object Technology_, 9(5), 2010.
+[JOT](https://blog.jot.fm/2010/08/26/ten-things-i-hate-about-object-oriented-programming/comment-page-2/):
+> "OOP is about taming complexity through modeling, but we have not mastered this yet."
+
+Zeba Khanam.
+**Barriers to Refactoring: Issues and Solutions**,
+_International Journal on Future Revolution in Computer Science \& Communication Engineering_, 4, 2018.
+[IJFRCSCE](https://www.ijfrcsce.org/index.php/ijfrcsce/article/view/1202):
+> "Object oriented programming promotes ease in designing reusable software but the long coded methods makes it unreadable and enhances the complexity of the methods."
+
 ## Most popular sources
 
 Conferences:
