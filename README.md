@@ -1,4 +1,4 @@
-<img src="http://cf.jare.io/?u=http%3A%2F%2Fwww.yegor256.com%2Fimages%2Fbooks%2Felegant-objects%2Fcactus.svg" height="100px" />
+<img alt="logo" src="https://www.objectionary.com/cactus.svg" height="100px" />
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -27,7 +27,14 @@ _Foundations of Object-Oriented Languages: REX School/Workshop Noordwijkerhout_,
 
 > This tutorial collects and elaborates arguments for distinguishing between object-oriented programming and abstract data types.
 
-...
+Tim Rentsch.
+**Object Oriented Programming**.
+_ACM SIGPLAN Notices_,
+17(9),
+1982,
+[ACM](https://dl.acm.org/doi/pdf/10.1145/947955.947961).
+
+> "Everyone will be in a favor of OOP. Every manufacturer will promote his products as supporting it. Every manager will pay lip service to it. Every programmer will practice it (differently). And no one will know just what it is."
 
 ## Most popular sources
 
