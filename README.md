@@ -32,6 +32,7 @@ Scott Danforth, et al.
 _ACM Computing Surveys_, 20(1), 1988.
 [ACM](https://dl.acm.org/doi/abs/10.1145/62058.62060):
 > "Object-oriented programming, like functional programming or logic programming, incorporates a metaphor in which computation is viewed in terms divorced from the details of actual computation. However, in the case of OOP, this metaphor is rarely introduced with the mathematical precision available to the functional or logic programming models. Rather, OOP is generally expressed in philosophical terms, resulting in a natural proliferation of opinions concerning exactly what OOP really is."
+>"The heart of the OOP metaphor is an anthropomorphic view of the objects of computation. Simply stated, the term 'object oriented' is used to describe programming languages in which the objects of computatio are (in a sense) like people."
 
 David West.
 **Object Thinking**.
@@ -83,9 +84,6 @@ I use [ACM citation style](http://www.acm.org/publications/authors/reference-for
 
 To find new papers I recommend to use
 [Google Scholar](https://scholar.google.com.ua/schhp).
-
-Please, read [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
-before submitting changes to this list.
 
 ## License
 
